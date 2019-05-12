@@ -49,10 +49,10 @@ public class Reserva {
 				+ numeroQuarto
 				+ ", Entrada: "
 				+ sdf.format(entrada)
-				+ ", Saida: "
+				+ ", Saída: "
 				+ sdf.format(saida)
 				+ ", "
 				+ duracao()
-				+ "noites";
+				+ " Noites";
 	}
 }
